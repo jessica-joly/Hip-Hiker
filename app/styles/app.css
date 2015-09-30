@@ -24,7 +24,7 @@ body {
 }
 
 .trail-display img{
-   width: 40rem;
+  width: 40rem;
   height: 25rem;
   border-radius: 2%;
 }
@@ -40,4 +40,10 @@ body {
   border-radius: 10px;
   font-size: 1.2em;
   max-width: 30rem;
+}
+
+.trail-wrapper {
+  margin-top:10rem;
+  margin-left:45rem;
+  margin-right:10rem;
 }
