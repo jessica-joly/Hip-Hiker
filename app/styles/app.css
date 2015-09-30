@@ -1,0 +1,14 @@
+.main-jumbotron {
+  background-image: url("/assets/images/hike.jpg");
+  text-align: center;
+  background-size:cover;
+  margin:0px;
+}
+
+.main-logo {
+  margin: 5px;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
