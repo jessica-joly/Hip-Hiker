@@ -1,6 +1,10 @@
 <div class="col-md-6 trail-display">
   <div class="trail-display-name">
-    {{trail.name}}
+    {{#link-to 'trail' trail.id}}
+      {{trail.name}}
+    {{/link-to}}
   </div>
-  <img src= {{trail.image}}>
+  {{#link-to 'trail' trail.id}}
+    <img src= {{trail.image}}>
+  {{/link-to}}
 </div>
