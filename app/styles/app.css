@@ -12,3 +12,32 @@
 body {
   font-family: 'Raleway', sans-serif;
 }
+
+.navbar-link {
+  color: black !important;
+  font-size: 1.5em;
+}
+
+.trail-display {
+  height:30rem;
+  margin-botton:5%;
+}
+
+.trail-display img{
+   width: 40rem;
+  height: 25rem;
+  border-radius: 2%;
+}
+
+.title-display-name {
+  position: absolute;
+  margin-left: 0rem;
+  margin-top: 18rem;
+  background: rgba(0,0,0,0.4);
+  color: #fff;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  border-radius: 10px;
+  font-size: 1.2em;
+  max-width: 30rem;
+}

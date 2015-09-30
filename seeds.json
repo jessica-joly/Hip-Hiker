@@ -1,4 +1,4 @@
-{"hikes":[{
+{"trails":[{
 
   "name":"Milk Creek",
   "description": "The Milk Creek trail is one of the primary trails to enter the wonders of the Glacier Peak Wilderness and offers a terrific 34.7-mile backpacking loop. Along the way it offers stunning close up views of Glacier Peak, endless wildflower meadows and ample opportunities for solitude.",
@@ -41,7 +41,7 @@
   },
   {
   "name":"Lake Ingalls",
-  "description": "There's no question why Ingalls Lake is one of the most popular destinations in the Alpine Lakes Wilderness. It is a stunning blue lake, set high in a basin beneath rocky peaks, showcasing striking Mount Stuart as its backdrop. The trail to this treasure is filled with delights, both for the summer adventurer as well as for those hikers who appreciate fall colors. Views of the craggy Esmeralda Peaks, a walk through beautiful Headlight Basin plus a pretty picture of the imposing Stuart Range are just a few of the wonders along the way.",
+  "description": "There's no question why Ingalls Lake is one of the most popular destinations in the Alpine Lakes Wilderness. It is a stunning blue lake, set high in a basin beneath rocky peaks, showcasing striking Mount Stuart as its backdrop. The trail to this treasure is filled with delights, both for the summer adventurer as well as for those trailrs who appreciate fall colors. Views of the craggy Esmeralda Peaks, a walk through beautiful Headlight Basin plus a pretty picture of the imposing Stuart Range are just a few of the wonders along the way.",
   "distance":"9.0 miles roundtrip",
   "image": "https://www.wta.org/site_images/hikes/ingalls-lake-159.jpg/@@images/420f09c6-13e6-43e7-9431-8270a930004a.jpeg",
   "location": "Mount Rainier Area -- Chinook Pass - Hwy 410",

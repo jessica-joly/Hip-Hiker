@@ -7,5 +7,4 @@ export default DS.Model.extend({
   image: DS.attr(),
   location: DS.attr(),
   difficulty: DS.attr()
-
 });
