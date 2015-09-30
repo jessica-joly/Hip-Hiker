@@ -1,0 +1,51 @@
+{"hikes":[{
+
+  "name":"Milk Creek",
+  "description": "The Milk Creek trail is one of the primary trails to enter the wonders of the Glacier Peak Wilderness and offers a terrific 34.7-mile backpacking loop. Along the way it offers stunning close up views of Glacier Peak, endless wildflower meadows and ample opportunities for solitude.",
+  "distance":"34.7 miles roundtrip",
+  "image": "https://www.wta.org/site_images/hikes/milk-creek-meadows-mtnmike.jpg/@@images/b37fc0fe-0fa8-4dd2-b7a4-2e40f9ed46e0.jpeg",
+  "location": "North Cascades - Mountain Loop Highway",
+  "difficulty": "Very Difficult"
+  },
+  {
+  "name":"Mount Townsend Backdoor",
+  "description": "Who doesn’t love a secret passageway? While the hordes gain Townsend from Quilcene side, sneak up on them from behind, then continue to Silver Lake for lovely camping and wandering opportunities.",
+  "distance":"14 miles roundtrip",
+  "image": "https://www.wta.org/site_images/hikes/mount-townsend_lance-mccoy.jpg/@@images/111e738a-8108-4028-836a-bca994386a31.jpeg",
+  "location": "Olympic Peninsula -- Hood Canal",
+  "difficulty": "Intermediate"
+  },
+  {
+  "name":"Burroughs Mountain",
+  "description": "Burroughs Mountain can be described as a 'mountain against a mountain'. At over 7800 feet, Burroughs Mountain sets right up against the northeastern face of Mount Rainier, hugging the Winthrop Glacier. It offers one of the most dramatic views of the massive volcano.",
+  "distance":"9 miles roundtrip",
+  "image": "https://www.wta.org/site_images/hikes/3rd-burroughs-to-skyscraper-pass-023.jpg/@@images/41b79da6-25e0-43c5-a41e-b9ca69d1c023.jpeg",
+  "location": "Mount Rainier Area -- NE - Sunrise/White River",
+  "difficulty": "Intermediate"
+  },
+  {
+  "name":"Camp Muir",
+  "description": "Enter rarefied air as you climb halfway up the most popular route to the summit of Mount Rainier. This is Camp Muir, a perch higher than the summits of nearly all mountains in the state. In addition to commanding views of the South Cascades, catch a glimpse of both the history of the park and the dramatic landscape of Rainier’s upper reaches.",
+  "distance":"8.0 miles, roundtrip",
+  "image": "https://www.wta.org/site_images/hikes/camp-muir-main.jpg/@@images/f3fac3a3-1079-4422-be5d-754b34e1e4ec.jpeg",
+  "location": "Mount Rainier Area",
+  "difficulty": "Easy"
+  },
+  {
+  "name":"Summit Lake",
+  "description": "This popular summer trail offers wildflower-filled meadows, a glistening alpine lake, big mountain views and wildlife sighting aplenty.",
+  "distance":"6.1 miles roundtrip",
+  "image": "https://www.wta.org/site_images/hikes/summit-lake-hiking-queen.jpg/@@images/6aa3581a-9e9f-4f22-98ce-d858928c0521.jpeg",
+  "location": "Mount Rainier Area -- Chinook Pass - Hwy 410",
+  "difficulty": "Easy"
+  },
+  {
+  "name":"Lake Ingalls",
+  "description": "There's no question why Ingalls Lake is one of the most popular destinations in the Alpine Lakes Wilderness. It is a stunning blue lake, set high in a basin beneath rocky peaks, showcasing striking Mount Stuart as its backdrop. The trail to this treasure is filled with delights, both for the summer adventurer as well as for those hikers who appreciate fall colors. Views of the craggy Esmeralda Peaks, a walk through beautiful Headlight Basin plus a pretty picture of the imposing Stuart Range are just a few of the wonders along the way.",
+  "distance":"9.0 miles roundtrip",
+  "image": "https://www.wta.org/site_images/hikes/ingalls-lake-159.jpg/@@images/420f09c6-13e6-43e7-9431-8270a930004a.jpeg",
+  "location": "Mount Rainier Area -- Chinook Pass - Hwy 410",
+  "difficulty": "Easy"
+  }
+ ]
+}

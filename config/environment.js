@@ -4,6 +4,8 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'hip-hiking',
     environment: environment,
+    contentSecurityPolicy: { 'connect-src': "'self' https://auth.firebase.com wss://*.firebaseio.com" },
+    firebase: 'https://hip-hiking.firebaseio.com/',
     baseURL: '/',
     locationType: 'auto',
     EmberENV: {
