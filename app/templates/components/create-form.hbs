@@ -1,0 +1,27 @@
+<center>
+<h1>New Hike</h1>
+</center>
+<p>Have you done a cool hike that isn't on our website? Tell us about it!</p>
+<div class="container">
+  <form>
+    <div class="form-group">
+      <label for="name">Name</label>
+      {{input value=name id="name" class="form-control"}}
+    </div>
+
+    <div class="form-group">
+      <label for="location">Area</label>
+      {{input value=location id="location" class="form-control"}}
+    </div>
+
+    <div class="form-group">
+      <label for="distance">Roundtrip distance</label>
+      {{input value=distance id="distance" class="form-control"}}
+    </div>
+
+    <div class="form-group">
+      <label for="description">Description</label>
+      {{textarea value=description id="description" rows="5" class="form-control"}}
+    </div>
+  </form>
+</div>  
