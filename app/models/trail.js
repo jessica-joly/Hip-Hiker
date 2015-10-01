@@ -9,5 +9,6 @@ export default DS.Model.extend({
   difficulty: DS.attr(),
   reviews: DS.hasMany('review', {async:true}),
   latitude: DS.attr('number'),
-  longitude: DS.attr('number')
+  longitude: DS.attr('number'),
+  
 });

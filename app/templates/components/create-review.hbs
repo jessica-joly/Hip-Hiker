@@ -15,8 +15,14 @@
     </div>
 
     <div class="form-group">
-      <label for="rating">Rate it on a scale of 1-5</label>
-      {{input value=rating id="rating" class="form-control"}}
+      <label for="rating">Rating</label>
+      {{#x-select value=rating action="rate"}}
+        {{#x-option value=1}}1{{/x-option}}
+        {{#x-option value=2}}2{{/x-option}}
+        {{#x-option value=3}}3{{/x-option}}
+        {{#x-option value=4}}4{{/x-option}}
+        {{#x-option value=5}}5{{/x-option}}
+      {{/x-select}}
     </div>
 
     <div class="form-group">
