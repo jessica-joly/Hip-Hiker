@@ -5,7 +5,9 @@
   "distance":"34.7 miles roundtrip",
   "image": "https://www.wta.org/site_images/hikes/milk-creek-meadows-mtnmike.jpg/@@images/b37fc0fe-0fa8-4dd2-b7a4-2e40f9ed46e0.jpeg",
   "location": "North Cascades - Mountain Loop Highway",
-  "difficulty": "Very Difficult"
+  "difficulty": "Very Difficult",
+  "latitude": "48.2457",
+  "longitude": "-121.1910"
   },
   {
   "name":"Mount Townsend Backdoor",
@@ -13,7 +15,9 @@
   "distance":"14 miles roundtrip",
   "image": "https://www.wta.org/site_images/hikes/mount-townsend_lance-mccoy.jpg/@@images/111e738a-8108-4028-836a-bca994386a31.jpeg",
   "location": "Olympic Peninsula -- Hood Canal",
-  "difficulty": "Intermediate"
+  "difficulty": "Intermediate",
+  "latitude": "47.8576",
+  "longitude": "-123.0946"
   },
   {
   "name":"Burroughs Mountain",
@@ -21,7 +25,9 @@
   "distance":"9 miles roundtrip",
   "image": "https://www.wta.org/site_images/hikes/3rd-burroughs-to-skyscraper-pass-023.jpg/@@images/41b79da6-25e0-43c5-a41e-b9ca69d1c023.jpeg",
   "location": "Mount Rainier Area -- NE - Sunrise/White River",
-  "difficulty": "Intermediate"
+  "difficulty": "Intermediate",
+  "latitude": "46.9146",
+  "longitude": "-121.6423"
   },
   {
   "name":"Camp Muir",
@@ -29,7 +35,9 @@
   "distance":"8.0 miles, roundtrip",
   "image": "https://www.wta.org/site_images/hikes/camp-muir-main.jpg/@@images/f3fac3a3-1079-4422-be5d-754b34e1e4ec.jpeg",
   "location": "Mount Rainier Area",
-  "difficulty": "Easy"
+  "difficulty": "Easy",
+  "latitude": "46.7860",
+  "longitude": "-121.7350"
   },
   {
   "name":"Summit Lake",
@@ -37,7 +45,9 @@
   "distance":"6.1 miles roundtrip",
   "image": "https://www.wta.org/site_images/hikes/summit-lake-hiking-queen.jpg/@@images/6aa3581a-9e9f-4f22-98ce-d858928c0521.jpeg",
   "location": "Mount Rainier Area -- Chinook Pass - Hwy 410",
-  "difficulty": "Easy"
+  "difficulty": "Easy",
+  "latitude": "47.0319",
+  "longitude": "-121.8269"
   },
   {
   "name":"Lake Ingalls",
@@ -45,7 +55,8 @@
   "distance":"9.0 miles roundtrip",
   "image": "https://www.wta.org/site_images/hikes/ingalls-lake-159.jpg/@@images/420f09c6-13e6-43e7-9431-8270a930004a.jpeg",
   "location": "Mount Rainier Area -- Chinook Pass - Hwy 410",
-  "difficulty": "Easy"
-  }
- ]
+  "difficulty": "Easy",
+  "latitude": "47.4367",
+  "longitude": "-120.9372"
+  }]
 }

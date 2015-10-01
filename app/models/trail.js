@@ -8,4 +8,6 @@ export default DS.Model.extend({
   location: DS.attr(),
   difficulty: DS.attr(),
   reviews: DS.hasMany('review', {async:true}),
+  latitude: DS.attr('number'),
+  longitude: DS.attr('number')
 });

@@ -16,6 +16,9 @@
    <p class="trail-image-wrapper">
       <img class="trail-image-big" src="{{model.image}}">
    </p>
+
+   {{google-map trail=model}}
+
    <hr>
    <h3>Reviews</h3>
    {{#each model.reviews as |review|}}
