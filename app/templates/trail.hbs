@@ -16,4 +16,10 @@
    <p class="trail-image-wrapper">
       <img class="trail-image-big" src="{{model.image}}">
    </p>
+   {{#each model.reviews as |review|}}
+     {{review-tile review=review}}
+   {{/each}}
+   <hr>
+   <h3>Leave a Review</h3>
+   {{create-review trail=model saveReview="saveReview"}}
 </div>

@@ -1,0 +1,33 @@
+{{yield}}
+<div class="container">
+  <form>
+    <div class="form-group">
+      <label for="user">Name</label>
+      {{input value=user id="user" class="form-control"}}
+    </div>
+
+    <div class="form-group">
+      <label for="date">Date</label>
+      {{input value=date type="date" id="date" class="form-control"}}
+    </div>
+
+    <div class="form-group">
+      <label for="rating">Rate it on a scale of 1-5</label>
+      {{input value=rating id="rating" class="form-control"}}
+    </div>
+
+    <div class="form-group">
+      <label for="image">Image</label>
+      {{input value=image id="image" class="form-control"}}
+    </div>
+
+    <div class="form-group">
+      <label for="content">Report</label>
+      {{textarea value=content id="content" rows="5" class="form-control"}}
+    </div>
+
+    <center>
+    <button class="btn btn-warning"{{action 'saveReview' review}}>Submit</button>
+    </center>
+  </form>
+</div>
