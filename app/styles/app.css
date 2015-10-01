@@ -1,14 +1,19 @@
 .main-jumbotron {
-  background-image: url("/assets/images/hike.jpg");
+  background-image: linear-gradient(rgba(255,255,255,0.3), rgba(255,255,255,0.3)), url("/assets/images/hike.jpg") ;
   text-align: center;
-  background-size:cover;
+  background-size: cover;
+  background-position: center center;
   margin:0px;
+  padding: 0px;
 }
 
 .main-logo {
-  margin: 5px;
+  padding: 50px;
 }
 
+.navbar {
+   border: none;
+}
 body {
   font-family: 'Raleway', sans-serif;
 }
@@ -44,14 +49,12 @@ body {
 }
 
 .trail-wrapper {
-  margin-top:10rem;
-  margin-left:45rem;
-  margin-right:15rem;
+  margin: 10rem;
 
 }
 
 .trail-header {
-  margin-top:8rem;
+  margin-top:4rem;
   font-size: 3em;
   color:black;
   font-weight: 400;
@@ -83,3 +86,15 @@ a:hover {
   text-decoration:none;
   transition: color .5s linear;
 }
+
+.trail-image-wrapper {
+   text-align: center;
+}
+
+.trail-image-big {
+   border-radius: 5px;
+   margin: 15px;
+}
+/*.trail-image:hover {
+   opacity: 0.7;
+}*/

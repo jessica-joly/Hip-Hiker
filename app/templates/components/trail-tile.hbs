@@ -1,10 +1,10 @@
-<div class="col-md-6 trail-display">
+<div class="col-md-4 trail-display">
   <div class="trail-display-name">
     {{#link-to 'trail' trail.id}}
       {{trail.name}}
     {{/link-to}}
   </div>
   {{#link-to 'trail' trail.id}}
-    <img src= {{trail.image}}>
+    <img class="img-responsive trail-image" src="{{trail.image}}">
   {{/link-to}}
 </div>
