@@ -7,7 +7,8 @@ export default Ember.Component.extend({
       var rating = this.get('trail.reviews').objectAt(i).get('rating');
       sum += rating;
     }
-    return sum / (this.get('trail.reviews').get('length'));
+    var average = sum / (this.get('trail.reviews').get('length'));
+    return average.toFixed(2);
   }),
   actions: {
     saveReview(params) {
