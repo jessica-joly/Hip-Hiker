@@ -1,7 +1,16 @@
 {{yield}}
 
-{{review.user}}
-{{review.date}}
-{{review.image}}
-{{review.content}}
-{{review.rating}}
+<div class="container">
+  <hr>
+
+  <div class="col-md-3">
+    <p>Review by {{review.user}}</p>
+    <p>Hiked on {{review.date}}</p>
+    <p>Rating: {{review.rating}}</p>
+  </div>
+
+  <div class="col-md-9">
+    <p>{{review.content}}</p>
+    <p><img src="{{review.image}}"></p>
+  </div>
+</div>
