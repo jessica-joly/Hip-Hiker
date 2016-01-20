@@ -43,7 +43,7 @@ You will need the following things properly installed on your computer.
 
 ## Legal
 
-Copyright (c) 2015 **_Jessica Joly & Andrew Haupt_**
+Copyright (c) 2015 **_Jessica Joly & Leah Klamkin_**
 
 This software is licensed under the MIT license.
 
